@@ -8,4 +8,4 @@ Defining a pattern <br>
 ![](patternDemo.gif) <br>
 
 Search query <br>
-![](searchDemo.gif)<br>
+![](queryDemo.gif)<br>
