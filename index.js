@@ -50,7 +50,7 @@ app.get('/r/:subreddit/:postId', (req, res) => {
     res.send(`<h1>Viewing post ID: ${postId} on the ${subreddit} subreddit </h1>`)
 })
 
-// search querries 
+// search query
 app.get('/search', (req, res) => {
     const { q } = req.query;
     // if nothing searched
